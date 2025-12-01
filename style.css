@@ -19,9 +19,11 @@
     gap: 20px;
 }
 li{
-    background-color: aqua;
-    color: aquamarine;
-    border: 1px darkblue;
-    padding: 10px 20px;
-
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    border: 5px solid blue;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgba(57, 48, 187, 0.53);
 }
